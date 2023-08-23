@@ -5,6 +5,10 @@
 - 纯 js 编写，没有任何依赖。
 - 支持 IE11+, Safari, Google Chrome, Yandex Browser, Opera, Firefox。
 
+## 预览
+
+https://c3p7f2.github.io/pages/growl-notifications.html
+
 ## 使用方法
 
 在页面中引入下面的文件。
@@ -12,6 +16,13 @@
 ```
 <link href="light-theme.min.css" rel="stylesheet">
 <script src='growl-notification.min.js'></script>
+```
+
+CDN
+
+```
+<link href="https://cdn.jsdelivr.net/gh/c3p7f2/growl-notification@main/light-theme.min.css" rel="stylesheet">
+<script src='https://cdn.jsdelivr.net/gh/c3p7f2/growl-notification@main/growl-notification.min.js'></script>
 ```
 
 ## 创建通知
