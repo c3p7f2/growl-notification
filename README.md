@@ -7,7 +7,7 @@
 
 ## 预览
 
-https://c3p7f2.github.io/pages/growl-notifications.html
+https://c3p7f2.github.io/pages/growl-notification
 
 ## 使用方法
 
